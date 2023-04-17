@@ -22,6 +22,11 @@ def main(argv):
         for args, kwargs in printList:
             print(*args, **kwargs)
 
+    def writePrintListToFile():
+        with open("output.txt", "a") as f:
+            for args, kwargs in printList:
+                print(*args, **kwargs, file=f)
+
     time_start = time.time()
     input_file = ''
     model_name = ''
@@ -60,6 +65,7 @@ def main(argv):
         transforms.Normalize(mean=[0.485, 0.456, 0.406],
                              std=[0.229, 0.224, 0.225]),
     ])
+
     input_tensor = preprocess(input_image)
     input_batch = input_tensor.unsqueeze(0)
 
@@ -104,6 +110,8 @@ def main(argv):
     printLater()
     printLater()
     printAll()
+    writePrintListToFile()
+    printList.clear()
 
 
 if __name__ == "__main__":

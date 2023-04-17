@@ -1,0 +1,585 @@
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  -28.99 Mb
+Interface time:  126.48 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9301         
+2     Great Pyrenees            0.0147         
+3     collie                    0.0101         
+4     Border collie             0.0079         
+5     Pomeranian                0.0049         
+Memory usage:  -16.79 Mb
+Interface time:  115.86 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.8846         
+2     Arctic fox                0.0458         
+3     white wolf                0.0443         
+4     Pomeranian                0.0056         
+5     Great Pyrenees            0.0047         
+Memory usage:  -19.72 Mb
+Interface time:  231.77 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.7245         
+2     wallaby                   0.1394         
+3     Pomeranian                0.0587         
+4     Angora                    0.0228         
+5     Arctic fox                0.0125         
+Memory usage:  -2.61 Mb
+Interface time:  460.93 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     tailed frog               0.4987         
+2     bullfrog                  0.4828         
+3     tree frog                 0.0116         
+4     green lizard              0.0037         
+5     American chameleon        0.0028         
+Memory usage:  -28.99 Mb
+Interface time:  103.43 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.6602         
+2     tailed frog               0.2423         
+3     green lizard              0.0881         
+4     common iguana             0.0046         
+5     American chameleon        0.0032         
+Memory usage:  -16.67 Mb
+Interface time:  100.99 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.557          
+2     tailed frog               0.3966         
+3     tree frog                 0.0445         
+4     African chameleon         0.0008         
+5     green lizard              0.0003         
+Memory usage:  -19.72 Mb
+Interface time:  218.35 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.5357         
+2     tree frog                 0.2561         
+3     tailed frog               0.2078         
+4     alligator lizard          0.0002         
+5     green lizard              0.0001         
+Memory usage:  -2.25 Mb
+Interface time:  443.72 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.6136         
+2     file                      0.1373         
+3     printer                   0.0711         
+4     refrigerator              0.0673         
+5     desk                      0.0308         
+Memory usage:  -29.52 Mb
+Interface time:  103.05 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.2994         
+2     file                      0.2434         
+3     printer                   0.2183         
+4     stove                     0.185          
+5     dishwasher                0.0093         
+Memory usage:  -16.67 Mb
+Interface time:  102.65 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.9136         
+2     printer                   0.0667         
+3     file                      0.009          
+4     stove                     0.0045         
+5     desk                      0.0028         
+Memory usage:  -19.72 Mb
+Interface time:  215.69 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.4983         
+2     file                      0.3769         
+3     printer                   0.0577         
+4     desk                      0.0177         
+5     stove                     0.0135         
+Memory usage:  -2.25 Mb
+Interface time:  447.99 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  -29.65 Mb
+Interface time:  122.79 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  16.62 Mb
+Interface time:  120.79 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9301         
+2     Great Pyrenees            0.0147         
+3     collie                    0.0101         
+4     Border collie             0.0079         
+5     Pomeranian                0.0049         
+Memory usage:  10.02 Mb
+Interface time:  113.31 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  16.62 Mb
+Interface time:  122.82 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9301         
+2     Great Pyrenees            0.0147         
+3     collie                    0.0101         
+4     Border collie             0.0079         
+5     Pomeranian                0.0049         
+Memory usage:  10.02 Mb
+Interface time:  116.24 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.8846         
+2     Arctic fox                0.0458         
+3     white wolf                0.0443         
+4     Pomeranian                0.0056         
+5     Great Pyrenees            0.0047         
+Memory usage:  17.16 Mb
+Interface time:  220.22 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.7245         
+2     wallaby                   0.1394         
+3     Pomeranian                0.0587         
+4     Angora                    0.0228         
+5     Arctic fox                0.0125         
+Memory usage:  1.85 Mb
+Interface time:  455.28 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     tailed frog               0.4987         
+2     bullfrog                  0.4828         
+3     tree frog                 0.0116         
+4     green lizard              0.0037         
+5     American chameleon        0.0028         
+Memory usage:  16.62 Mb
+Interface time:  100.57 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.6602         
+2     tailed frog               0.2423         
+3     green lizard              0.0881         
+4     common iguana             0.0046         
+5     American chameleon        0.0032         
+Memory usage:  10.02 Mb
+Interface time:  99.17 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.557          
+2     tailed frog               0.3966         
+3     tree frog                 0.0445         
+4     African chameleon         0.0008         
+5     green lizard              0.0003         
+Memory usage:  18.98 Mb
+Interface time:  208.11 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.5357         
+2     tree frog                 0.2561         
+3     tailed frog               0.2078         
+4     alligator lizard          0.0002         
+5     green lizard              0.0001         
+Memory usage:  1.85 Mb
+Interface time:  439.58 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.6136         
+2     file                      0.1373         
+3     printer                   0.0711         
+4     refrigerator              0.0673         
+5     desk                      0.0308         
+Memory usage:  16.62 Mb
+Interface time:  104.72 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.2994         
+2     file                      0.2434         
+3     printer                   0.2183         
+4     stove                     0.185          
+5     dishwasher                0.0093         
+Memory usage:  10.02 Mb
+Interface time:  103.02 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.9136         
+2     printer                   0.0667         
+3     file                      0.009          
+4     stove                     0.0045         
+5     desk                      0.0028         
+Memory usage:  18.21 Mb
+Interface time:  214.44 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.4983         
+2     file                      0.3769         
+3     printer                   0.0577         
+4     desk                      0.0177         
+5     stove                     0.0135         
+Memory usage:  1.85 Mb
+Interface time:  439.53 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  16.62 Mb
+Interface time:  118.58 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9301         
+2     Great Pyrenees            0.0147         
+3     collie                    0.0101         
+4     Border collie             0.0079         
+5     Pomeranian                0.0049         
+Memory usage:  10.02 Mb
+Interface time:  113.1 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  16.62 Mb
+Interface time:  121.65 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9301         
+2     Great Pyrenees            0.0147         
+3     collie                    0.0101         
+4     Border collie             0.0079         
+5     Pomeranian                0.0049         
+Memory usage:  10.02 Mb
+Interface time:  126.37 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9053         
+2     Arctic fox                0.0161         
+3     papillon                  0.0117         
+4     West Highland white terrier 0.0097         
+5     Eskimo dog                0.0091         
+Memory usage:  -29.52 Mb
+Interface time:  121.33 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_1
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.9301         
+2     Great Pyrenees            0.0147         
+3     collie                    0.0101         
+4     Border collie             0.0079         
+5     Pomeranian                0.0049         
+Memory usage:  -16.67 Mb
+Interface time:  115.06 ms
+
+
+================ Model Inference ================
+- Model:  resnet18
+- Input file:  images/dog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     Samoyed                   0.8846         
+2     Arctic fox                0.0458         
+3     white wolf                0.0443         
+4     Pomeranian                0.0056         
+5     Great Pyrenees            0.0047         
+Memory usage:  -19.72 Mb
+Interface time:  232.38 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     tailed frog               0.4987         
+2     bullfrog                  0.4828         
+3     tree frog                 0.0116         
+4     green lizard              0.0037         
+5     American chameleon        0.0028         
+Memory usage:  -29.78 Mb
+Interface time:  57.24 ms
+
+
+================ Model Inference ================
+- Model:  squeezenet1_0
+- Input file:  images/bike.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     mountain bike             0.5465         
+2     bicycle-built-for-two     0.3855         
+3     tricycle                  0.0549         
+4     unicycle                  0.0091         
+5     moped                     0.0011         
+Memory usage:  -30.41 Mb
+Interface time:  59.44 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/bike.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bicycle-built-for-two     0.4536         
+2     tricycle                  0.331          
+3     mountain bike             0.1873         
+4     disk brake                0.019          
+5     moped                     0.0074         
+Memory usage:  -2.50 Mb
+Interface time:  390.22 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/frog.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     bullfrog                  0.5357         
+2     tree frog                 0.2561         
+3     tailed frog               0.2078         
+4     alligator lizard          0.0002         
+5     green lizard              0.0001         
+Memory usage:  -2.25 Mb
+Interface time:  398.82 ms
+
+
+================ Model Inference ================
+- Model:  alexnet
+- Input file:  images/printer.jpg
+
+#     Label                     Confidence     
+--------------------------------------------------
+1     photocopier               0.4983         
+2     file                      0.3769         
+3     printer                   0.0577         
+4     desk                      0.0177         
+5     stove                     0.0135         
+Memory usage:  -2.25 Mb
+Interface time:  392.97 ms
+
+
