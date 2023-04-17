@@ -15,5 +15,5 @@ for file in $filename; do
   python3 run_model.py -i images/$file -m resnet18
 
   echo "Running AlexNet on $file"
-  python3 run_model.py -i images/$file -m alexnetoll 6ke
+  python3 run_model.py -i images/$file -m alexnet
 done
