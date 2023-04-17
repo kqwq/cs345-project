@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # Install torch and torchvision for Python
 pip install torch torchvision

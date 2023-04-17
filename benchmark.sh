@@ -1,13 +1,19 @@
-#/bin/bash
+#!/bin/bash
 
-echo "Running SqueezeNet 1.0"
-python3 run_model.py -i dog.jpg -m squeezenet1_0
+# Create list of filesnames in the /images directory
+filename=$(ls images)
 
-echo "Running SqueezeNet 1.1"
-python3 run_model.py -i dog.jpg -m squeezenet1_1
+# Loop through each file in the /images directory
+for file in $filename; do
+  echo "Running SqueezeNet 1.0 on $file"
+  python3 run_model.py -i $file -m squeezenet1_0
 
-echo "Running ResNet 18"
-python3 run_model.py -i dog.jpg -m resnet18
+  echo "Running SqueezeNet 1.1 on $file"
+  python3 run_model.py -i $file -m squeezenet1_1
 
-echo "Running AlexNet"
-python3 run_model.py -i dog.jpg -m alexnet
+  echo "Running ResNet 18 on $file"
+  python3 run_model.py -i $file -m resnet18
+
+  echo "Running AlexNet on $file"
+  python3 run_model.py -i $file -m alexnet
+done
