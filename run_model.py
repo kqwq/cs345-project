@@ -80,7 +80,7 @@ def main(argv):
             with torch.no_grad():
                 output = model(input_batch)
     profileOutput = prof.key_averages().table(
-        row_limit=1)
+        sort_by="self_cpu_memory_usage", row_limit=1)
     row3 = profileOutput.split("\n")[3]
     memoryUsage = row3[117:117+14].strip()
 
